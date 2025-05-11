@@ -1,0 +1,173 @@
+body {
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20231006/pngtree-computerized-seo-background-exploring-web-development-programming-code-and-app-development-image_13515246.png");
+    background-size: cover;
+    background-position: center;
+
+}
+
+
+
+
+h1{
+
+    color: rgb(0, 0, 255);
+    font-size: 24px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-weight: bold;
+    margin: 20px 0; 
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: lightgray;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+    letter-spacing: 1px;
+}
+.ss{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0); /* Perfect black color */
+    font-size: 18px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    text-decoration: none;
+    text-transform: none;
+    font-weight: normal;
+    margin: 10px 0;
+    padding: 50px;
+    border: 5px solid #1b0101; 
+    border-radius: 100px;
+    background-attachment: scroll;
+    background-image: url("https://thumbs.dreamstime.com/b/school-student-blurred-light-background-template-ai-generated-image-274445825.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 600px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease-in-out;
+    position: absolute;
+    top: 109%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.w3 {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/019/133/423/non_2x/abstract-digital-connection-technology-logo-template-free-vector.jpg");
+    height: 20%; /* Adjust size relative to .container */
+    width: 20%; /* Adjust size relative to .container */
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border: 2px solid #000; /* Optional: Add a border for better visibility */
+    position: absolute;
+    top: 10%; /* Position relative to .container */
+    left: 50%; /* Center horizontally within .container */
+    transform: translate(-50%, -50%);
+}
+.container {
+    height: 500px; /* Adjusted size for a more compact information box */
+    width: 400px; /* Adjusted width for better proportions */
+    border-radius: 10px; /* Slightly rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    background-image: url("https://image.freepik.com/free-vector/abstract-light-background-various-gradient-colors_444390-6227.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat; /* Ensure the background doesn't repeat */
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace; /* Stylish bold font */
+    font-size: 16px; /* Adjust font size for better readability */
+    display: flex;
+    flex-direction: column; /* Stack content vertically */
+    justify-content: center;
+    align-items: center; /* Center content horizontally */
+    overflow: hidden;
+    border: 1px solid #ccc; /* Light border for subtle separation */
+    position: absolute;
+    top: 109%; /* Center vertically */
+    left: 17%; /* Center horizontally */
+    transform: translate(-50%, -50%); /* Adjust for perfect centering */
+    padding: 20px; /* Add padding for content spacing */
+    font-family: 'Arial', sans-serif; /* Clean font for text */
+    color: #333; /* Dark gray text for contrast */
+    text-align: center; /* Center-align text */
+}
+
+.logo {
+    background-image: url("https://static.vecteezy.com/system/resources/previews/019/133/423/non_2x/abstract-digital-connection-technology-logo-template-free-vector.jpg");
+    height: 100px; /* Adjustable height */
+    width: 100px; /* Adjustable width */
+    border-radius: 50%; /* Make it circular */
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    margin: 0 auto; /* Center the logo within the container */
+    top: 75%; /* Center vertically */
+    left: 17%; /* Center horizontally */
+}
+.sh {
+    height: 120px; /* Slightly larger height for better visibility */
+    width: 120px; /* Slightly larger width for better visibility */
+    border-radius: 50%; /* Keep it circular */
+    background-size: cover; /* Ensure the image covers the entire area */
+    background-position: center; /* Center the image */
+    margin-top: 20px; /* Adjust margin for better spacing */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add subtle shadow for depth */
+    border: 2px solid #ccc; /* Optional: Add a light border for better definition */
+    transition: transform 0.3s ease-in-out; /* Smooth hover effect */
+}
+.sh:hover {
+    transform: scale(1.1); /* Slightly enlarge on hover */
+}
+.new {
+    background-image: url("https://media.gettyimages.com/id/958693744/vector/abstract-red-light-trail-on-blue-background.jpg?s=612x612&w=gi&k=20&c=942KuQ5PNEa6ixpvJLukJDYolMqRvNwRluwHkGv5IIo=");
+    height: 400px; /* Adjustable height */
+    width: 460px; /* Adjustable width */
+    border-radius: 5%; /* Make it circular */
+    background-size: cover;
+    background-position: left;
+    background-repeat: no-repeat;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    margin: 0; /* Remove auto-centering */
+    top: 80%; /* Center vertically */
+    right: 0%;/* Move completely to the left */
+    position: absolute; /* Ensure positioning works */
+    color: aliceblue;
+}
+.new:hover {
+    transform: scale(1.1); /* Slightly enlarge on hover */
+}
+.btn { 
+    background: linear-gradient(135deg, #4facfe, #00f2fe); /* Gradient background for a modern look */
+    color: white; /* White text for contrast */
+    padding: 12px 25px; /* Slightly larger padding for better appearance */
+    border: none; /* No border */
+    border-radius: 8px; /* More rounded corners for a sleek design */
+    cursor: pointer; /* Pointer cursor on hover */
+    font-size: 18px; /* Larger font size for better readability */
+    font-weight: bold; /* Bold text for emphasis */
+    /* Removed misplaced transition property */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+}
+
+.btn:hover {
+    background: linear-gradient(135deg, #43e97b, #f8ffae); /* Change gradient on hover */
+    transform: translateY(-3px); /* Slight lift effect */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.3); /* Enhanced shadow on hover */
+}
+
+.btn:active {
+    background: linear-gradient(135deg, #4facfe, #00f2fe); /* Revert to original gradient on click */
+    transform: translateY(1px); /* Slight press effect */
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2); /* Reduced shadow on click */
+}
